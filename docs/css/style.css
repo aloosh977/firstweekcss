@@ -1,0 +1,78 @@
+li
+{
+    
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    background-color:beige  ;
+    line-height: normal;
+    font-size: xx-large;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+body
+{
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+ul
+{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    background-color: black;
+}
+a
+{
+    text-decoration: none;
+    color: black;
+}
+h1
+{
+    font-size: xxx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 24%;
+    text-align: center;
+    display: inline-block;
+    margin-left: 38%;
+    margin-right: 38%;
+    background-color: beige;
+}
+p
+{
+    background-color: rgba(240, 255, 255, 0.8);
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 225%;
+}
+.id-footer
+{
+    text-align: center;
+    /* how to make it at the very bottom of the page */
+}
+.copy_right
+{
+    text-align: center;
+    background-color: black;
+    color: white;
+    line-height: 125%;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+    /* position: sticky; i dont know what does it do */
+}
+table
+{
+    margin-left: 5%;
+    width: 90%;
+}
+th,tr
+{
+    background-color: rgba(245, 245, 220, 0.429);
+    border: 5px solid beige;
+}
+th:hover {background-color: rgba(126, 234, 146, 0.443)}
